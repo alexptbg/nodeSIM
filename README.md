@@ -1,2 +1,2 @@
 # nodeSIM
-NodeJS mobile network communication.
+NodeJS mobile network communication for modules SIMCOM 8x
